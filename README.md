@@ -1,5 +1,7 @@
 # Virtuoso SPARQL Endpoint Quickstart
 
+__Configured for DBpedia Gaeilge__
+
 Creates and runs a Virtuoso Open Source instance including a SPARQL endpoint preloaded with a Databus Collection and the VOS DBpedia Plugin installed.
 
 ## Quickstart
